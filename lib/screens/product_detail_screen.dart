@@ -53,9 +53,9 @@ class _ProductDetailScreenState extends State<ProductDetailScreen> {
               ),
               const SizedBox(height: 10),
               const Text(
-                "sasasasasaaaaaaaaaaaasasasasasasasasas",
-                style: TextStyle(
-                    fontSize: 15, color: Color.fromRGBO(41, 41, 43, 1)),
+                "As part of our efforts to reach carbon neutrality by 2030,Included in the box is a USB‑C to Lightning Cable that supports fast charging and is compatible with USB‑C power adapters and computer ports."
+                ,style: TextStyle(
+                    fontSize: 10, color: Color.fromRGBO(41, 41, 43, 1)),
               ),
               const SizedBox(height: 20),
               const SizedBox(height: 20),
