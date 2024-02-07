@@ -1,20 +1,9 @@
-# HW-4
+الصفحة الرئيسية لتطبيق فيها قائمة الاجهزة
+<img src="https://github.com/ohob745/HW-4/assets/110139139/7fdf5d74-3b6e-4f49-b776-776dbeea49fe" alt="الصفحة الرئيسية">
+الصفحة الثانية لإظهار تفاصيل الجهاز
 
-## Description:
-Your task is to create a small shopping app, as showing in picture   
+<img src="https://github.com/ohob745/HW-4/assets/110139139/10238c23-e546-4bca-9b44-9ccc628664f3" alt="صفحة تفاصيل الجهاز">
+صفححة تظهر قائمة الاجهزة المختارة
+<img src="https://github.com/ohob745/HW-4/assets/110139139/efdfe0ad-fffb-4ece-89a6-2aeb8ee42be8
+" alt="صفحة سلة المشتريات">
 
-
-<img src="https://github.com/FlutterBootCamps/HW-4/assets/94991478/656d742f-8870-487c-a805-f9cd8dec7b88" width=800/>
-
-## Extra credit:
--	Add quantity button, and total amount will change depends quantity of each product
-
-## Delivery Requirements:
-1.	Project Structure: Create a new Flutter project and organize its structure appropriately. Set up the necessary folders and files, and ensure a clean and organized project layout. 
-2.	Clean Code: Write clear and well-organized code. Use meaningful variable and function names, Well-structured and easily maintainable code.
-3.	Screenshots of your app.
-
-
-
-## Deadline: 
-8/2/2024  9:59 AM
